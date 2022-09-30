@@ -2,6 +2,23 @@ output_path: ./out.fountain
 sections_dir: ./sections/
 structure:
   - title
+  - "## ACT 1"
   - thief
   - doctor
   - incident
+  - conviction
+  - "## ACT 2A"
+  - recovery
+  - retreat
+  - evidence
+  - "## ACT 2B"
+  - motivation
+  - ghost
+  - medicine
+  - dilemnas
+  - "## ACT 3"
+  - confrontation
+  - doors
+  - oath
+  - dose
+  - future_together
