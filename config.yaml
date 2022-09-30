@@ -1,0 +1,7 @@
+output_path: ./out.fountain
+sections_dir: ./sections/
+structure:
+  - title
+  - thief
+  - doctor
+  - incident
