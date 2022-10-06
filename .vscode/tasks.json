@@ -6,7 +6,8 @@
     {
       "label": "Combine Fountain Sections",
       "type": "shell",
-      "command": "${command:python.interpreterPath} build.py",
+      "command": "${command:python.interpreterPath}",
+      "args": ["${workspaceFolder}/build.py"],
       "group": {
         "kind": "build",
         "isDefault": true
